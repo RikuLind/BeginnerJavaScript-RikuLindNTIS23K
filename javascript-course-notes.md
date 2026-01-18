@@ -69,6 +69,7 @@ Shows using template literals in VS Code, highlighting how they make string oper
 Reviews different JavaScript data types and explains their use cases.
 
 Simple type: number, float, string, boolean, date, function, array, object
+
 Special type: NaN, null, undefined
 
 ## Video 16
